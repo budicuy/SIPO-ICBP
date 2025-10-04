@@ -80,7 +80,7 @@ $departemen = mysqli_query($conn, "SELECT * FROM departemen ORDER BY nama_depart
     </div>
     <div class="col-md-6 d-flex gap-2">
       <button class="btn btn-primary">Filter</button>
-      <a href="karyawan.php" class="btn btn-secondary">Reset</a>
+      <a href="karyawan.php" class="btn btn-secondary">Reset</a>///
     </div>
   </form>
 
